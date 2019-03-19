@@ -32,3 +32,17 @@ div.block2 img {
   width: 500px;
   height: 300px;
 }
+div.block3 h2{
+  text-align: center;
+  color: plum;
+}
+.block3 {
+  width: 20%;
+  height: 370px;
+  float: left;
+  padding: 1%;
+  border: 5px solid plum;
+  margin: 5px;
+  text-align: left;
+  background-color: floralwhite;
+}
