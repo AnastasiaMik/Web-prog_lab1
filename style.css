@@ -98,3 +98,43 @@ div.block4 img{
     margin-left: auto;
   }
 }
+@media screen and (max-width: 480px) {
+  body {
+    min-width: 320px;
+  }
+  .block2 {
+     max-width: 365px;
+     height: auto;
+     padding: 1%;
+   }
+  div.block2 img {
+    width: 300px;
+    height: 200px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .block1 {
+    max-width: 365px;
+    height: auto;
+    padding: 1%;
+  }
+  .block3{
+    width: 365px;
+    height: auto;
+    float: left;
+    padding: 1%;
+  }
+  .block4 {
+    width: 365px;
+    height: auto;
+    padding: 1%;
+  }
+  div.block4 img {
+    width: 300px;
+    height: 200px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
