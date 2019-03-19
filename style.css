@@ -46,3 +46,18 @@ div.block3 h2{
   text-align: left;
   background-color: floralwhite;
 }
+div.block4 h2{
+  text-align: center;
+}
+div.block4 img{
+  width: 500px;
+  height: 300px;
+}
+.block4 {
+  width: 504px;
+  float: left;
+  padding: 1%;
+  border: 5px solid #b3d4fc;
+  margin: 5px;
+  background-color: lavenderblush
+}
