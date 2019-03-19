@@ -6,3 +6,16 @@ h1 {
   color: darkred;
   font-size: 35px;
 }
+div.block1 h2{
+  text-align: center;
+  color: mediumpurple;
+}
+.block1 {
+  width: 1408px;
+  float: left;
+  padding: 1%;
+  border: 5px solid mediumpurple;
+  margin: 5px;
+  text-align: left;
+  background-color: seashell;
+}
