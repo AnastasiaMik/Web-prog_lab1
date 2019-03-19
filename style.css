@@ -19,3 +19,16 @@ div.block1 h2{
   text-align: left;
   background-color: seashell;
 }
+div.block2{
+  width: 504px;
+  float: left;
+  padding: 1%;
+  border: 5px solid #b3d4fc;
+  margin: 5px;
+  background-color: lavenderblush;
+  text-align: center;
+}
+div.block2 img {
+  width: 500px;
+  height: 300px;
+}
